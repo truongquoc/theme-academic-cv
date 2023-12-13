@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Ngo Truong Quoc
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Truong
+last_name: Quoc
 
 # Status emoji
 status:
@@ -17,74 +17,36 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Software Engineer - Replay of Things
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: FPT Software Company
+    url: https://fptsoftware.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - Generative AI
+  - Large language Model research
   - Computational Linguistics
   - Information Retrieval
+  - Reading Book
+  - Playing Guita
+  - Replaying of things
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Information Technology
+      institution: Da Nang University of Science and Technology
+      year: (2017)
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +82,9 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Quoc Truong, an accomplished software developer with years of experience in the dynamic realm of technology. Throughout my journey, I have specialized in cutting-edge areas of software development, focusing on Distributed System and Cloud Devops, and honing my skills in AWS, Java Spring Boot, PostgresQL, NodeJs.
+
+One area that particularly captivates my interest is generative AI. Exploring the possibilities of machine intelligence and creativity, I am dedicated to advancing the frontier of generative AI. This passion has led me to actively contribute to projects involving ChatGPT, LangChain framework. I believe that the fusion of creativity and technology can bring about transformative solutions, and I am eager to continue making strides in this exciting field.
+
+Looking forward, I am enthusiastic about the prospects of further shaping the future of software development and contributing to groundbreaking advancements in generative AI..
 {style="text-align: justify;"}
